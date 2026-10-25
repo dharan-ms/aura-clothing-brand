@@ -1,0 +1,4 @@
+{
+  "summary": "Removed the still-photo hero carousel and set the supplied mp4 as the looping background of the homepage banner. The olive Sera panel and Shop now stay on the right. The video was playing at desktop width, and Shop now opens New Arrivals.",
+  "current_status": "Aura React storefront is running on port 5174. The homepage hero is a video background. Header, cart, checkout, collections, and journal are in place."
+}

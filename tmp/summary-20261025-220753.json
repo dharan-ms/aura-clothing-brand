@@ -1,0 +1,4 @@
+{
+  "summary": "Rebuilt the site header the user highlighted. The boxed centered AURA lockup is gone. There is now an olive utility strip (Stores, shipping note, Account), an italic Aura wordmark on the left with search, wishlist, and cart on the right, and one centered menu row underneath. Shirts navigation and search both work at desktop width.",
+  "current_status": "Aura React storefront is running on port 5174. Header layout is the new two-tier bar. Front page still leads with shirting. Cart, checkout, collections, and journal are in place."
+}

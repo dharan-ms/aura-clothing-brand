@@ -1,0 +1,4 @@
+{
+  "summary": "Tightened the header into one quiet bar. The olive strip is thinner, Aura sits on the left in italic, and the menu and icons share that same line with even space on both sides. A gold underline marks the current item, and the shirts dropdown still opens White Shirts. Checked at 1440, 1280, and 1120 pixels wide with no overlap.",
+  "current_status": "Aura React storefront is running on port 5174. The header is the refined single-row bar. Front page still leads with shirting. Cart, checkout, collections, and journal are in place."
+}

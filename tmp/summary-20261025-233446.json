@@ -1,0 +1,4 @@
+{
+  "summary": "Removed the a3 / AURA / Aura Club row under the homepage video. The video now fills an exact 16:9 frame, 1440 by 810, matching its 1920 by 1080 source, with a clean white gap before Categories. Shirts still opens from that row.",
+  "current_status": "Aura React storefront is running on port 5174. Homepage hero is a full-width 16:9 video with the brand row removed. Header reads AURA CLOTHING."
+}

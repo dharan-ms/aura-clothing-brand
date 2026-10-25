@@ -1,0 +1,4 @@
+{
+  "summary": "Replaced the homepage background video with the new clip. It is 1920 by 1080 and plays muted on a loop inside the existing exact 16:9 frame, 1440 by 810 at desktop width.",
+  "current_status": "Aura React storefront is running on port 5174. Homepage hero uses the new background video. Header reads AURA CLOTHING. The brand row under the video stays removed."
+}

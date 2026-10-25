@@ -1,0 +1,4 @@
+{
+  "summary": "Made the homepage video an exact 16:9 frame at full width, 1440 by 810, with no side panel and no leftover strip above the a3 / AURA / Aura Club row. The video is playing and the brand row starts on the next pixel.",
+  "current_status": "Aura React storefront is running on port 5174. The homepage hero is a full-width 16:9 video. Header, cart, checkout, collections, and journal are in place."
+}

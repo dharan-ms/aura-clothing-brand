@@ -1,0 +1,4 @@
+{
+  "summary": "Replaced the homepage hero. The opening slide is now a white dress shirt with the olive Sera panel and Shop now, followed by a striped evening shirt and a shirt rack. The menu and AURA wordmark no longer overlap. Verified at desktop width on http://127.0.0.1:5174/: the hero is 1440px wide, the panel sits beside the photo, and the next-slide control moves from Sera to Aurelia.",
+  "current_status": "Aura React storefront is running on port 5174. The front page now leads with shirting. Cart, checkout, collections, and journal are already in place."
+}
